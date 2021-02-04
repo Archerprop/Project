@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <div><p>hola mundo</p></div>
+    <div>
+    <p>hola mundo</p>
+    <h1>esto es un ejemplo</h1>
+    </div>
 </body>
 </html>
